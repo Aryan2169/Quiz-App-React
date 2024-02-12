@@ -1,0 +1,42 @@
+export const data = [
+    {
+      question: "What is the purpose of the 'git clone' command in Git?",
+      option1: "Create a new Git repository",
+      option2: "Clone a remote repository to your local machine",
+      option3: "Delete a Git repository",
+      option4: "Commit changes to the repository",
+      ans: 2,
+    },
+    {
+      question: "Which programming language is known for its high performance and is commonly used in system programming?",
+      option1: "Python",
+      option2: "Java",
+      option3: "C++",
+      option4: "JavaScript",
+      ans: 3,
+    },
+    {
+      question: "What does HTML stand for in web development?",
+      option1: "Hypertext Markup Language",
+      option2: "High-level Text Manipulation Language",
+      option3: "Hyperlink and Text Markup Language",
+      option4: "Hypertext Transfer Language",
+      ans: 1,
+    },
+    {
+      question: "What is the purpose of the 'npm' command in Node.js?",
+      option1: "Node Package Manager",
+      option2: "Node Process Manager",
+      option3: "Node Programming Module",
+      option4: "Node Package Module",
+      ans: 1,
+    },
+    {
+      question: "In object-oriented programming, what is encapsulation?",
+      option1: "Hiding the implementation details of an object",
+      option2: "Creating multiple instances of a class",
+      option3: "Inheriting properties from a superclass",
+      option4: "Creating a copy of an object",
+      ans: 1,
+    },
+];
